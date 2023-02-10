@@ -1,0 +1,40 @@
+TDD
+- A ideia é construir o produto(software) orientado aos testes
+
+A premissa básica é que primeiro definimos o que o código deve deve fazer
+através dos testes, e depois implementamos um código que satisfaça aos testes
+
+
+Camada de domínio -> Entidades que carregam as regras de negócios
+
+Testes unitários possuem a característica de testar as partes mais importantes
+da aplicação a nível de negócio que são as entidades
+
+
+OS TESTES ANTES DA CRIAÇÃO DO SOFTWARE 
+TRAZEM A CORAGEM DE EVOLUIR SEU SOFTWARE, MELHORAR A ARQUITETURA
+ORGANIZAR CÓDIGO EM MELHORES LUGARES, SEM TER QUE SE PREOCUPAR
+SE O CÓDIGO ESTÁ OU NÃO FUNCIONANDO, POIS O RESPONSÁVEL POR TRAZER
+ESSE FEEDBACK SERÁ OS TESTES
+
+TESTES SÃO NECESSÁRIOS PARA A EVOLUÇÃO COM SEGURANÇA DE UM SOFTWARE
+
+ESCREVER TESTES NÃO AUMENTA O TEMPO DE DESENVOLVIMENTO, 
+PORÉM TESTAR MANUALMENTE SIM. 
+
+SOLID 
+
+5 principios 
+
+1 - SRP
+
+Single Responsability Principle 
+Separar coisas que mudam por motivos diferentes
+Mover responsabilidades
+
+2 - OCP
+
+Open/closed principle
+
+devemos estar fechados para modificação e abertos para extensão
+
